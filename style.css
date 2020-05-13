@@ -1,0 +1,11 @@
+*{
+  transition: 2s;
+}
+
+#project1{
+  display: none;
+}
+#border{
+  border: 1px black solid;
+  height: 20px;
+}
